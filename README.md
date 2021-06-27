@@ -1,2 +1,2 @@
-# Tellurium-Server-Selector
-Server selector Fabric mod for the Tellurium network.
+# What is this?
+Tellurium Server Selector is a [Fabric](https://fabricmc.net/) mod for the Tellurium network used to select any of the Tellurium servers from the one main hub.
